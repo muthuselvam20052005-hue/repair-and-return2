@@ -1,0 +1,8 @@
+{
+  "name": "repair-and-return",
+  "version": "1.0.0",
+  "description": "Repair & Return: customer app and organization website",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=16" }
+}
